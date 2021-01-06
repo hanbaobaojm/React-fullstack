@@ -1,5 +1,5 @@
 # React-fullstack
-This is a product background management system.\
+This is a product background management system. 
 [Try here](https://react-background-management.herokuapp.com).\
 **Default username and password: admin**
 
@@ -30,3 +30,7 @@ When login with different user of different roles, the main menu shows different
 
 Here we use Victory to show data into charts and graphs.\
 The data shown in this project is temporary (not in database).
+
+
+## Folders
+The main branch is the backend part with build folder of frontend. And the 
